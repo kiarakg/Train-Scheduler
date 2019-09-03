@@ -1,6 +1,6 @@
 # Train-Scheduler
 
-* [View Project] (https://kiarakg.github.io/Train-Scheduler/)
+* [ View Project ] (https://kiarakg.github.io/Train-Scheduler/)
 
 
 ## Description
